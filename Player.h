@@ -3,7 +3,7 @@
 class Player{
     
     private:
-    std::string_name;
+    std::string _name;
     int _bestscore1;
     int _bestscore2;
     int _bestscore3;
@@ -16,15 +16,14 @@ class Player{
     int _newscore4;
     int _newscore5;
 
-    int setscore1;
 
 
     public:
-    void getName(std:string_name);
+    void getName(std::string _name);
     void getScore(int _bestscore1);
     void updateScore1(int _bestscore1, int _newscore1);
 
 
-    Player(std::sting_name, int _bestscore);
+    Player(std::string _name, int _bestscore);
 
 };
