@@ -4,7 +4,9 @@ class Player{
     
     private:
     std:string_name()
-    int _bestscore()
+    int _bestscore1()
+    int _bestscore2()
+    int _bestscore3()
 
 
 
