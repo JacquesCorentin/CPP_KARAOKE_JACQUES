@@ -1,0 +1,3 @@
+C/ Comment pourrait-on ajouter ou supprimer des chansons ?
+
+On pourrait utiliser le tableau dynamique pour ajouter ou supprimer des chansons grâce à une classe karaoke.
